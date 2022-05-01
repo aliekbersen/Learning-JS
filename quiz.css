@@ -1,0 +1,38 @@
+.intro{
+    text-align: center;
+    background: white;
+
+}
+.header{
+    color: rgb(112, 190, 216);
+    font-size: 70px;
+    font-style: italic;
+}
+
+.on{
+    color: white;
+    padding: 40px;
+    font-size: 30px;
+    background: rgb(112, 190, 216);
+    
+}
+.q1{
+    padding: 30px;
+    color: white;
+    background: rgb(112, 190, 216);
+}
+.lead{
+    font-size: 20px;
+}
+
+.btn{
+    background: rgb(112, 190, 216);
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.result{
+    text-align: center;
+    font-size: 30px;
+    color: aquamarine;
+}
